@@ -14,7 +14,7 @@
 # Hi there, I'm [Gaurab] 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=942FE7&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;Building+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=31&duration=3000&pause=700&color=942FE7&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Django+%26+React+Developer" />
 </div>
 
 <div align="center">
@@ -112,7 +112,7 @@ const developer = {
 
 ## 💭 Thought of the Day
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Pro:wght@200&size=22&duration=4000&pause=3000&color=942FE7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C;it's+bad.+-+Cory+House;Programming+isn't+about+what+you+know%3B;it's+about+what+you+can+figure+out.+-+Chris+Pine" alt="Developer Quotes"/>
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
 ## Let's Connect 🤝
