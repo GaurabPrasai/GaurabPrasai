@@ -89,5 +89,5 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=3CDBC0&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Gaurab Prasai"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=3CDBC0&center=true&vCenter=true&width=500&lines=%3C%2F%3E+with+%E2%99%A5+by+Gaurab+Prasai" />
 </div>
