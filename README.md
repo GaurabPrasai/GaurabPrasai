@@ -1,31 +1,93 @@
-# 💫 About Me:
-- 👋 Hi, I’m GaurabPrasai
-- 👀 I’m interested in Web Development and Cyber Security
-- 🌱 I’m currently learning Computer Science through CS50
-- 📫 Open for a thoughtful talk on my Twitter and Instagram handles; 
+# Hi there, I'm [Gaurab] 👋 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gaurabprasaigp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurab_prasai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gaurab Prasai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gaurabprasaigp) 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3CDBC0&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;Building+Digital+Experiences" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GaurabPrasai&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GaurabPrasai&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabPrasai&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GaurabPrasai&style=for-the-badge&color=3CDBC0&label=Profile+Views" alt="Profile Views"/>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GaurabPrasai&theme=default&no-frame=true&no-bg=false&margin-w=4)
+## About Me ✨
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> *"Code is poetry in motion"*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GaurabPrasai&limit=5&theme=default&combine_all_yearly_contributions=true)
+- 🔭 Currently working on innovative web applications
+- 🌱 Learning advanced system architecture and cloud solutions
+- 💡 Passionate about clean code and elegant solutions
+- 🎯 2024 Goals: Contribute more to open source
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+<summary>More about me 👈</summary>
 
-<!---
-GaurabPrasai/GaurabPrasai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```javascript
+const developer = {
+    code: ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Material-UI", "SCSS"]
+        },
+        backEnd: {
+            python: ["Django", "FastAPI"],
+            js: ["Node", "Express"]
+        },
+        databases: ["PostgreSQL", "MongoDB", "Redis"],
+        tools: ["Docker", "Git", "AWS"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+</details>
+
+## Tech Stack 🛠️
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-1F2937?style=for-the-badge&logo=python&logoColor=3CDBC0&labelColor=1F2937)
+![Django](https://img.shields.io/badge/-Django-1F2937?style=for-the-badge&logo=django&logoColor=3CDBC0&labelColor=1F2937)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=3CDBC0&labelColor=1F2937)
+![React](https://img.shields.io/badge/-React-1F2937?style=for-the-badge&logo=react&logoColor=3CDBC0&labelColor=1F2937)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3CDBC0&labelColor=1F2937)
+![Git](https://img.shields.io/badge/-Git-1F2937?style=for-the-badge&logo=git&logoColor=3CDBC0&labelColor=1F2937)
+
+</div>
+
+## GitHub Analytics ⚡
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaurabPrasai&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&bg_color=1F2937&icon_color=3CDBC0&title_color=3CDBC0&text_color=FFFFFF&border_color=3CDBC0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabPrasai&layout=compact&theme=gotham&bg_color=1F2937&title_color=3CDBC0&text_color=FFFFFF&border_color=3CDBC0"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabPrasai&theme=gotham&background=1F2937&ring=3CDBC0&fire=3CDBC0&currStreakLabel=3CDBC0&border=3CDBC0" alt="GitHub Streak"/>
+</div>
+
+## 💭 Thought of the Day
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Pro:wght@200&size=22&duration=4000&pause=3000&color=3CDBC0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C;it's+bad.+-+Cory+House;Programming+isn't+about+what+you+know%3B;it's+about+what+you+can+figure+out.+-+Chris+Pine" alt="Developer Quotes"/>
+</div>
+
+## Let's Connect 🤝
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurab-prasai)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gaurabprasaigp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3CDBC0?style=for-the-badge&logo=Safari&logoColor=white)](https://gaurabprasai.com.np/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurabprasaigp@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaurabPrasai&theme=gotham&bg_color=1F2937&color=3CDBC0&line=3CDBC0&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=3CDBC0&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Gaurab Prasai"/>
+</div>
