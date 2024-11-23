@@ -112,7 +112,7 @@ const developer = {
 
 ## 💭 Thought of the Day
 <div align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
 </div>
 
 ## Let's Connect 🤝
