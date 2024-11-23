@@ -111,9 +111,7 @@ const developer = {
 </div>
 
 ## 💭 Thought of the Day
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Let's Connect 🤝
 
