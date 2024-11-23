@@ -14,7 +14,7 @@
 # Hi there, I'm Gaurab 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=31&duration=3000&pause=700&color=942FE7&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Django+%26+React+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=31&duration=3000&pause=900&color=942FE7&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Django+%26+React+Developer" />
 </div>
 
 <div align="center">
@@ -37,18 +37,18 @@
 
 ```javascript
 const developer = {
-    code: ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
+    code: ["C", "Python", "Javascript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React", "Vite", "Figma"],
             css: ["Tailwind", "Material-UI", "SCSS"]
         },
         backEnd: {
-            python: ["Django", "FastAPI"],
-            js: ["Node", "Express"]
+            python: ["Django", "Flask", "REST Api"],
+            js: ["Node"]
         },
-        databases: ["PostgreSQL", "MongoDB", "Redis"],
-        tools: ["Docker", "Git", "AWS"]
+        databases: ["SQL", "SQLite", "Redis"],
+        tools: ["Docker", "Git", "Selenium"]
     },
     currentFocus: "Building scalable web applications",
     funFact: "There are two ways to write error-free programs; only the third one works"
