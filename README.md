@@ -1,7 +1,7 @@
 # Hi there, I'm [Gaurab] 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3CDBC0&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;Building+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0891b2&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;Building+Digital+Experiences" />
 </div>
 
 <div align="center">
@@ -75,7 +75,7 @@ const developer = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurab-prasai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurab-prasai-6a771831a/)
 [![Twitter](https://img.shields.io/badge/Twitter-0891b2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gaurabprasaigp)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=Safari&logoColor=white)](https://gaurabprasai.com.np/)
 [![Email](https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurabprasaigp@gmail.com)
