@@ -11,7 +11,7 @@
   light-bg: fdf4ff99   (Semi-transparent light background)
 -->
 
-# Hi there, I'm [Gaurab] 👋 
+# Hi there, I'm Gaurab 👋 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=31&duration=3000&pause=700&color=942FE7&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Django+%26+React+Developer" />
@@ -26,10 +26,11 @@
 > *"Code is poetry in motion"*
 
 - 🔭 Currently working on innovative web applications
-- 🌱 Learning advanced system architecture and cloud solutions
+- 🌱 Learning React and other fronted technologies
 - 💡 Passionate about clean code and elegant solutions
 - 🎯 2024 Goals: Contribute more to open source
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+- 🕵️‍♂️ Fun fact: You can now read books by typing them out yourself—it’s like decoding a secret message, one keystroke at a time!
+
 
 <details>
 <summary>More about me 👈</summary>
@@ -109,9 +110,6 @@ const developer = {
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabPrasai" alt="GitHub Streak"/>
   </picture>
 </div>
-
-## 💭 Thought of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Let's Connect 🤝
 
