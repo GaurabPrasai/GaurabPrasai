@@ -17,10 +17,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=31&duration=3000&pause=900&color=942FE7&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Django+%26+React+Developer" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GaurabPrasai&style=for-the-badge&color=942FE7&label=Profile+Views" alt="Profile Views"/>
-</div>
-
 ## About Me ✨
 
 > *"Code is poetry in motion"*
