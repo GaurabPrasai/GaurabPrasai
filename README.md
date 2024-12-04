@@ -25,7 +25,7 @@
 - 🌱 Learning React and other fronted technologies
 - 💡 Passionate about clean code and elegant solutions
 - 🎯 2024 Goals: Contribute more to open source
-- 🕵️‍♂️ Fun fact: You can now read books by typing them out yourself—it’s like decoding a secret message, one keystroke at a time!
+- 🕵️‍♂️ Fun fact: I know a site where you can read books by typing them out yourself—it’s like decoding a secret message, one keystroke at a time!
 
 
 <details>
