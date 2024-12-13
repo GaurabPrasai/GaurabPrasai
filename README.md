@@ -40,7 +40,7 @@ const developer = {
             css: ["Tailwind", "Material-UI", "SCSS"]
         },
         backEnd: {
-            python: ["Django", "Flask", "REST Api"],
+            python: ["Django", "Flask", "REST API"],
             js: ["Node"]
         },
         databases: ["SQL", "SQLite", "Redis"],
