@@ -90,7 +90,6 @@ const developer = {
   
   
 </div>
-
 <br>
 
 ## 📊 GitHub Analytics
@@ -139,54 +138,6 @@ const developer = {
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabPrasai" alt="GitHub Streak"/>
   </picture>
 </div>
-
-<br>
-
-## 🔍 Recent Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <div align="center">
-          <a href="https://github.com/GaurabPrasai/recom" target="_blank">
-            <img src="https://dummyimage.com/600x400/942fe7/ffffff&text=Recom" width="100%" alt="ML Project"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://github.com/username/repo" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-            </a>
-            <a href="https://yoursite.com" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Django, React, PostgreSQL</strong> - A feature-rich web application with authentication, real-time updates, and responsive design.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <div align="center">
-          <a href="https://github.com/username/repo" target="_blank">
-            <img src="https://dummyimage.com/600x400/f28dcd/160422&text=React+Project" width="100%" alt="Project"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://github.com/username/repo" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-            </a>
-            <a href="https://yoursite.com" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>React, TypeScript, TailwindCSS</strong> - A modern single-page application showcasing advanced React patterns and responsive design.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <br>
 
 ## 📫 Connect With Me
