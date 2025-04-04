@@ -151,7 +151,7 @@ const developer = {
         <h3 align="center">Project 1</h3>
         <div align="center">
           <a href="https://github.com/GaurabPrasai/recom" target="_blank">
-            <img src="https://dummyimage.com/600x400/942fe7/ffffff&text=Django+Project" width="100%" alt="Project"/>
+            <img src="https://dummyimage.com/600x400/942fe7/ffffff&text=Recom" width="100%" alt="ML Project"/>
           </a>
           <br>
           <p>
