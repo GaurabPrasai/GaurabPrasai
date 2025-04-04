@@ -114,11 +114,11 @@ const developer = {
       <td width="50%">
         <picture>
           <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabPrasai&layout=compact&theme=dark&hide_border=true&bg_color=160422aa&title_color=942FE7&text_color=dedede&border_color=942fe755&count_private=true&langs_count=6&cache_seconds=1800"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabPrasai&layout=compact&theme=dark&hide_border=true&bg_color=160422aa&title_color=942FE7&text_color=dedede&border_color=942fe755&count_private=true&langs_count=10&cache_seconds=1800"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabPrasai&layout=compact&hide_border=true&bg_color=fdf4ff99&title_color=942FE7&text_color=160422&border_color=942fe755&count_private=true&langs_count=6&cache_seconds=1800"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabPrasai&layout=compact&hide_border=true&bg_color=fdf4ff99&title_color=942FE7&text_color=160422&border_color=942fe755&count_private=true&langs_count=10&cache_seconds=1800"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
           <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabPrasai&layout=compact&count_private=true&langs_count=6" />
