@@ -80,17 +80,12 @@ const developer = {
 ```
 </details>
 
-<br>
-
 ## 💻 Tech Stack
 
 <div align="center">
   <!-- All technologies in a single clean row -->
   <img src="https://skillicons.dev/icons?i=c,python,django,javascript,react,figma&theme=dark" alt="Tech Stack" />
-  
-  
 </div>
-<br>
 
 ## 📊 GitHub Analytics
 
